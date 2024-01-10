@@ -1,2 +1,6 @@
 # laptop-price-predictor
-A laptop price prediction model that accurately estimates laptop prices based on key features.
+•Designed and developed a laptop price prediction , using a variety of machine learning algorithms
+to accurately estimate laptop prices based on key features.
+
+•Employed a range of machine learning models including linear regression, random forest, SVM
+and KNN.
